@@ -1,4 +1,5 @@
 main() {
+  // year
   num year = 1995;
 
   if (year % 4 != 0) {
